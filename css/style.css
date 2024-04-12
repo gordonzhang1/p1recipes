@@ -1,0 +1,33 @@
+#title{
+    background-color:blue;
+    color:white;
+    text-align: center;
+}
+
+.recipes{
+    font-size:40px;
+    text-align:center;
+    font-weight:bold;
+    color:green;
+    background-color:aqua;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.recipes.lasagna{
+    color:red;
+    font-weight:100;
+}
+
+.recipes.mac{
+    color:yellow;
+
+}
+
+.recipes.straw{
+    color:black;
+}
+
+.page{
+    text-align:center;
+}
+
